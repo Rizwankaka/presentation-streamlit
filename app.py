@@ -6,7 +6,7 @@
 import streamlit as st
 import streamlit.components.v1 as components
 
-st.title('🎈 Data Storyboard')
+st.title('🎈Presentation from Google Slides')
 
 # Get user input for Google Slides link
 slide_link = st.text_input('Enter your Google Slides link', 'https://docs.google.com/presentation/d/')
